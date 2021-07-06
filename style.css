@@ -25,6 +25,8 @@ body{
     text-decoration: none;
     padding: 17px;
     background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 500;
     border-radius: 21px;
 
 }
@@ -41,12 +43,12 @@ body{
     width: 414px;
     
 }
-.half-width-b{
+.half-width-first{
     width: 400px;
     text-align: justify;
     margin-top: 100px;
 }
-.center{
+.Recipies-list{
    
     margin-top: 40px;
     text-align: center;
@@ -77,13 +79,13 @@ body{
     width: 100%;
     
 }
-.ses{
+.footer{
     text-align: center;
     padding: 20px;
     background-color: black;
     color: white;
     margin-top: 40px;
 }
-.color-secent{
+.color-seconde{
     color: tomato;
 }
